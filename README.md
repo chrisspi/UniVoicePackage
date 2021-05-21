@@ -4,6 +4,11 @@ A Peer to Peer Voice Over IP (VoIP) solution for Unity
 ## Intro
 UniVoice uses [UniMic](https://www.github.com/adrenak/unimic) to capture audio and [AirPeer](https://www.github.com/adrenak/airpeer) to form WebRTC based peer to peer connections between which audio data can be exchanged.
 
+## Install
+
+Add to Dependencies: 
+> "com.chrisspi.univoice": "https://github.com/chrisspi/UniVoicePackage.git"
+
 ## Usage
 ### Basic
 - `Voice.New(AudioSource src)` to create a new `Voice` instance. `src` is the `AudioSource` component that will play the incoming audio.  
