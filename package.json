@@ -1,0 +1,28 @@
+{
+    "name": "com.chrisspi.univoice",
+    "version": "1.0.0",
+    "displayName": "UniVoice",
+    "description": "UniVoice Package for P2P Voice Chat. Forked from https://github.com/adrenak/UniVoice",
+    "unity": "2019.3",
+    "unityRelease": "0f6",
+    "author": {
+      "name": "chrisspi"
+    },
+    "samples": [
+      {
+        "displayName": "AirPeer Sample",
+        "description": "",
+        "path": "Samples~/AirPeer"
+      },
+      {
+        "displayName": "UniStream Sample",
+        "description": "",
+        "path": "Samples~/UniStream"
+      },
+      {
+        "displayName": "UniVoice Sample",
+        "description": "",
+        "path": "Samples~/UniVoice"
+      }
+    ]
+  }
